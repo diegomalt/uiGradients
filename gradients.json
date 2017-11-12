@@ -1,5 +1,9 @@
 [
-     {
+    {
+        "name": "Nëos",
+        "colors": ["#cb202d", "#dc1e28"]
+    },
+    {
         "name": "Mango",
         "colors": ["#ffe259", "#ffa751"]
     },
